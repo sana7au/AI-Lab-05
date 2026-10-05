@@ -1,6 +1,6 @@
 # Initial List of Tuples
 habits = [("Drink water", True), ("Read 10 pages", False), 
-("Exercise", True), ("Sleep 8 hours", True), ("Meditate", False)] 
+("Exercise", True), ("Sleep 8 hours", True), ("Meditate", False), ("Write journal", True)] 
 
 # Loop through the list to print each habit with its status
 for habit in habits:
